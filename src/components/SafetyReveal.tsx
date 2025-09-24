@@ -42,7 +42,7 @@ export default function SafetyReveal({ onContinue }: SafetyRevealProps) {
           <p className="text-sm sm:text-lg leading-relaxed text-black break-words mt-2">
             We’ve prepared some engaging activities for you, 
             But before we dive in, We believe the beginning to something great must start with a smile. 
-            let’s share a few quick moments of laughter together.”
+            let’s share a few quick moments of laughter together.
           </p>
         </div>
 
